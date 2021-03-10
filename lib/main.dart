@@ -21,6 +21,7 @@ class ListaTransferencias extends StatelessWidget {
       ItemTransferencia(Transferencia(100.00,"Banco: Bradesco Ag: 1253 CP: 6716378")),
       ItemTransferencia(Transferencia(70.00,"Banco: Caixa Ag: 6348 CP: 29499")),
       ItemTransferencia(Transferencia(380.00,"Banco: Itau Ag: 8453 CP: 4981636")),
+      ItemTransferencia(Transferencia(380.00,"Banco: Santander Ag: 7439 CP: 79425")),
     ]);
   }
 }
